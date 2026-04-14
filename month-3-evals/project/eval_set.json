@@ -1,0 +1,12 @@
+[
+  {
+    "question": "How do I install the project?",
+    "expected_sources": ["README.md"],
+    "rubric": "Should mention docker compose and ollama pull"
+  },
+  {
+    "question": "What embedding model is used?",
+    "expected_sources": ["ingest.py", "schema.sql"],
+    "rubric": "Should say nomic-embed-text and 768 dimensions"
+  }
+]

@@ -1,0 +1,19 @@
+# Optional: same thing with promptfoo (npm i -g promptfoo; promptfoo eval)
+# Start here only after understanding evaluate.py.
+
+prompts:
+  - "Answer this question using the context: {{question}}"
+
+providers:
+  - id: google:gemini-2.5-flash
+    config:
+      apiKey: $GEMINI_API_KEY
+
+tests:
+  - vars:
+      question: "How do I install the project?"
+    assert:
+      - type: llm-rubric
+        value: "Mentions docker compose and ollama pull"
+      - type: contains
+        value: "docker"
