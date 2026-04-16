@@ -7,9 +7,9 @@
 ## Learning tasks
 
 ### Watch / read
-- [ ] [Andrej Karpathy — Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (1 hr)
-- [ ] [Google — Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
-- [ ] [Google — Prompting strategies for Gemini](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+- [*] [Andrej Karpathy — Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) (1 hr)
+- [*] [Google — Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
+- [*] [Google — Prompting strategies for Gemini](https://ai.google.dev/gemini-api/docs/prompting-strategies)
 
 ### Hands-on
 - [ ] Work through [Anthropic's API Fundamentals course](https://github.com/anthropics/courses/tree/master/anthropic_api_fundamentals) (point examples at Gemini — swap 2 lines)
