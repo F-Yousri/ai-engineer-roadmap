@@ -4,6 +4,7 @@ Staying oriented in AI engineering is more about scanning signal than studying. 
 
 ## Newsletters / Blogs
 
+- [ ] [AI Weekly](https://aiweekly.co/) — discover what AI experts are reading and sharing right now, with ranked coverage of models, agents, funding, policy, and research
 - [ ] [Latent Space](https://www.latent.space/) — podcast + newsletter, practitioners for practitioners
 - [ ] [Simon Willison's blog](https://simonwillison.net/) — daily curation, clear thinking
 - [ ] [Hamel Husain](https://hamel.dev/) — best writing on evals and LLM engineering discipline
